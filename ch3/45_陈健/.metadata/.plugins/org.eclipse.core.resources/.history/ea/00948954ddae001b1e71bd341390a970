@@ -1,0 +1,8 @@
+package ch3_1;
+
+public interface Beijing {
+public void add();
+public void remove();
+public Component getChild(int i);
+public void operation();
+}

@@ -1,0 +1,25 @@
+package ch3_1;
+
+import java.util.ArrayList;
+
+public class Beijing implements Component {
+
+	private ArrayList list = new ArrayList();
+
+	public void add(Component c) {
+
+	}
+
+	public void remove(Component c) {
+
+	}
+
+	public Component getChild(int i) {
+		return null;
+	}
+
+	public void operation() {
+
+	}
+
+}

@@ -1,0 +1,11 @@
+package ch2_1_2;
+
+public class Client {
+
+	public static void main(String[] args) {
+	U u =new U();
+	u.findzipcode("123456");
+
+	}
+
+}

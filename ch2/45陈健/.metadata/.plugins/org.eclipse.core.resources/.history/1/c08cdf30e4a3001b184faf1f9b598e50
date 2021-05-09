@@ -1,0 +1,11 @@
+package ch2_1_1;
+
+public class CAdapter extends C implements U{
+
+	@Override
+	public String findzipcode(String zipcode) {
+		// TODO Auto-generated method stub
+		return "Ulocation";
+	}
+
+}

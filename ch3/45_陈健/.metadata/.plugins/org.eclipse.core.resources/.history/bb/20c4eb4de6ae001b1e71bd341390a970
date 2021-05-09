@@ -1,0 +1,9 @@
+package ch3_2;
+
+public class JPG implements Fo {
+
+	public void beread() {
+		System.out.println(this.getClass());
+	}
+
+}

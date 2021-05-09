@@ -1,0 +1,5 @@
+package ch2_1_2;
+
+public interface U {
+	public String findzipcode(String zipcode);
+}

@@ -1,0 +1,24 @@
+package ch3_1;
+
+public class Clinet {
+
+	public static void main(String[] args) {
+		Component c1, c2, c3, c4, c5, c6;
+		Beijing bj1;
+		HunanSchool hs1;
+		XiangtanTeach xt1;
+		ChangshaTeach ct1;
+		c1 = new Ad();
+		c2 = new Ad();
+		c3 = new Ad();
+		c4 = new Edu();
+		c5 = new Edu();
+		c6 = new Edu();
+		bj1 = new Beijing();
+		hs1 = new HunanSchool();
+		xt1 = new XiangtanTeach();
+		ct1 = new ChangshaTeach();
+		
+	}
+
+}

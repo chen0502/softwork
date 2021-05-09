@@ -1,0 +1,9 @@
+package ch2_1_1;
+
+public class Client {
+	
+	public static void main(String[] args) {
+		U u = new CAdapter();
+		u.findzipcode("123456");
+	}
+}

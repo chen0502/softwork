@@ -1,0 +1,9 @@
+package ch2_1_2;
+
+public class CAdapter extends U{
+private C c;
+public CAdapter(C c) {
+	this.c=c;
+}
+
+}

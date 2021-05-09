@@ -1,0 +1,15 @@
+package ch3_2;
+
+public class BMP implements Fo {
+
+	public void beread() {
+		
+	}
+
+	@Override
+	public void beread(String sys) {
+		System.out.println(this.getClass());
+		
+	}
+
+}
